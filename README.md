@@ -1,0 +1,2 @@
+# puppet
+Basic puppet configuration
